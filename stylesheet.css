@@ -13,7 +13,6 @@
   --text-color-container: rgb(255, 255, 255);
   --background-button: url(/dark-light-theme/images/noite-button.png);
   --background-int-button: url(/dark-light-theme/images/lua.png);
-  
 }
 .light-mode:root{
   --nav-bar: #323232;
@@ -27,7 +26,6 @@
   --background-button: url(/dark-light-theme/images/background\ botao\ dia.jpg);
   --background-int-button: url(/dark-light-theme/images/sol.png);
 }
-
 body {
   margin: 0;
   padding: 0;
@@ -60,7 +58,6 @@ nav, ul {
   display: flex;
   justify-content: center;
 }
-
 li,
 a {
   display: flex;
