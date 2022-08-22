@@ -5,27 +5,27 @@
 :root{
   --nav-bar: #000000;
   --font-color-navbar: rgb(255, 255, 255);
-  --background: url(/images/noite.webp);
+  --background: url(/dark-light-theme/images/noite.webp);
   --background-container:#272727;
   --box-container-color: rgb(229, 255, 0);
   --shadow-color: #f2ff3e;
   --hover-color-ancora: rgb(245, 248, 88);
   --text-color-container: rgb(255, 255, 255);
-  --background-button: url(/images/noite-button.png);
-  --background-int-button: url(/images/lua.png);
+  --background-button: url(/dark-light-theme/images/noite-button.png);
+  --background-int-button: url(/dark-light-theme/images/lua.png);
   
 }
 .light-mode:root{
   --nav-bar: #323232;
   --font-color-navbar: #fff;
-  --background: url(/images/dia.jpg);
+  --background: url(/dark-light-theme/images/dia.jpg);
   --background-container:#f4f6f7;
   --box-container-color: rgb(182, 182, 182);
   --shadow-color: #212529;
   --hover-color-ancora: rgb(252, 255, 81);
   --text-color-container: rgb(44, 44, 44);
-  --background-button: url(/images/background\ botao\ dia.jpg);
-  --background-int-button: url(/images/sol.png);
+  --background-button: url(/dark-light-theme/images/background\ botao\ dia.jpg);
+  --background-int-button: url(/dark-light-theme/images/sol.png);
 }
 
 body {
