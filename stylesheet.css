@@ -5,13 +5,13 @@
 :root{
   --nav-bar: #000000;
   --font-color-navbar: rgb(255, 255, 255);
-  --background: url(/dark-light-theme/images/noite.webp);
+  --background: url(/dark-light-theme/images/noite.jpg);
   --background-container:#272727;
   --box-container-color: rgb(229, 255, 0);
   --shadow-color: #f2ff3e;
   --hover-color-ancora: rgb(245, 248, 88);
   --text-color-container: rgb(255, 255, 255);
-  --background-button: url(/dark-light-theme/images/noite-button.png);
+  --background-button: url(/dark-light-theme/images/noite-button.jpg);
   --background-int-button: url(/dark-light-theme/images/lua.png);
 }
 .light-mode:root{
